@@ -1,8 +1,4 @@
 ## Hi there 👋
-
-<!--
-**Escapist-coder/Escapist-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## About Me
 - Hi, it's Yongda here.
 - **Research Interests**: [🤖🧠 Embodied Intelligence, 🚗💨 Autonomous Driving]
@@ -13,3 +9,7 @@
 
 - [Weekly Learning Summary](Link) 📖 - Recap of key learnings and challenges
 - [Problem-Solving Log](Link) 💡 - Notes on solving technical/algorithm questions
+
+<!--
+**Escapist-coder/Escapist-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
