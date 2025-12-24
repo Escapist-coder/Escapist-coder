@@ -11,9 +11,11 @@
 - VLA (about to start)
 
 - SLAM
+
 [VINS-Mono-Preprocessor](https://github.com/Escapist-coder/VINS-Mono-Preprocessor)
 
 - Object Detection (not yet completed)
+
 [YOLO](https://editor.csdn.net/md/?articleId=154820474)
 
 <!--
