@@ -16,7 +16,7 @@
 
 - Object Detection (not yet completed)
 
-[YOLO](https://editor.csdn.net/md/?articleId=154820474)
+[YOLO]([https://editor.csdn.net/md/?articleId=154820474](https://blog.csdn.net/2303_77547168/article/details/154820474?spm=1011.2415.3001.5331))
 
 <!--
 **Escapist-coder/Escapist-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
