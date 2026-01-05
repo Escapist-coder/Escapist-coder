@@ -8,7 +8,9 @@
 - 📫You can contact me via my email: 1260743319@qq.com
 
 ## 📚 Learning Notes
-- VLA (about to start)
+- VLA
+
+[OpenVLA](https://blog.csdn.net/2303_77547168/article/details/156364335?sharetype=blogdetail&sharerId=156364335&sharerefer=PC&sharesource=2303_77547168&spm=1011.2480.3001.8118)
 
 - SLAM
 
