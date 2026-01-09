@@ -15,6 +15,7 @@
 - SLAM
 
 [VINS-Mono-Preprocessor](https://github.com/Escapist-coder/VINS-Mono-Preprocessor)
+[Multi-sensor-fusion](https://github.com/niuzhijiu/Multi-sensor-fusion)
 
 - Object Detection (not yet completed)
 
