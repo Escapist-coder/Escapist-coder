@@ -7,7 +7,7 @@
 - 📝This repository is created to **record and share my learning insights and study notes** —it acts as a personal knowledge base and a space to connect with other learners.
 - 📫You can contact me via my email: 1260743319@qq.com
 
-## 📚 Learning Notes
+## 📚 My Learning Notes & Projects
 - VLA
 
 [OpenVLA](https://blog.csdn.net/2303_77547168/article/details/156364335?sharetype=blogdetail&sharerId=156364335&sharerefer=PC&sharesource=2303_77547168&spm=1011.2480.3001.8118)
