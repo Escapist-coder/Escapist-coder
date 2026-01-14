@@ -10,7 +10,7 @@
 ## 📚 My Learning Notes & Projects
 - VLA
 
-[OpenVLA](https://blog.csdn.net/2303_77547168/article/details/156364335?sharetype=blogdetail&sharerId=156364335&sharerefer=PC&sharesource=2303_77547168&spm=1011.2480.3001.8118)
+[OpenVLA](https://blog.csdn.net/2303_77547168/article/details/156364335?sharetype=blogdetail&sharerId=156364335&sharerefer=PC&sharesource=2303_77547168&spm=1011.2480.3001.8118](https://github.com/Escapist-coder/OpenVLA-Libero-Reproduction-Finetune)
 
 - SLAM
 
@@ -24,4 +24,7 @@
 
 <!--
 **Escapist-coder/Escapist-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+- AI basics
+
 
