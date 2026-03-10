@@ -12,6 +12,8 @@
 
 [OpenVLA](https://github.com/Escapist-coder/OpenVLA-Libero-Reproduction-Finetune)
 
+[Data_pipeline](https://github.com/Escapist-coder/VLA-Data-Pipeline)
+
 [Dexbotic](https://blog.csdn.net/2303_77547168/article/details/157030408?sharetype=blogdetail&sharerId=157030408&sharerefer=PC&sharesource=2303_77547168&spm=1011.2480.3001.8118)
 
 [Notes on reading VLA papers](https://blog.csdn.net/2303_77547168/article/details/156768275?spm=1011.2415.3001.5331)
@@ -22,7 +24,7 @@
 
 [Fish_book]()
 
-[RL]()
+[RL](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
 
 - SLAM
 
